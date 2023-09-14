@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WordToPDF</id>
+    <version>1.0.0</version>
+    <authors>WordToPDF</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Aspose.Words" version="21.8.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\czWorkSplace\repo\WordToPDF\bin\Debug\net6.0-windows\WordToPDF.runtimeconfig.json" target="lib\net6.0-windows7.0\WordToPDF.runtimeconfig.json" />
+    <file src="D:\czWorkSplace\repo\WordToPDF\bin\Debug\net6.0-windows\WordToPDF.dll" target="lib\net6.0-windows7.0\WordToPDF.dll" />
+  </files>
+</package>
