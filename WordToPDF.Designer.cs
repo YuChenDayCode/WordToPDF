@@ -1,6 +1,6 @@
 ﻿namespace WordToPDF
 {
-    partial class Form1
+    partial class WordToPDF
     {
         /// <summary>
         ///  Required designer variable.

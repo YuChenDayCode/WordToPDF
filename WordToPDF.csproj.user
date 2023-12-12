@@ -4,7 +4,7 @@
     <_LastSelectedProfileId>D:\czWorkSplace\repo\WordToPDF\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Update="Form1.cs">
+    <Compile Update="WordToPDF.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

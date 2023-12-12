@@ -12,4 +12,8 @@
     <PackageReference Include="Aspose.Words" Version="21.8.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="img\" />
+  </ItemGroup>
+
 </Project>
